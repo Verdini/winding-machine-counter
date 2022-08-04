@@ -1,9 +1,7 @@
-
 #ifndef contador_bobinadeira_h
 #define contador_bobinadeira_h
 
 #define VERSION 2.3.6
-
 
 // Definitions for device customization
 
@@ -72,6 +70,5 @@
 #include "display.h"
 #include "buttons.h"
 #include "program.h"
-
 
 #endif
